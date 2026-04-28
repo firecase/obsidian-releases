@@ -19248,5 +19248,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "multi-block-link",
+    "name": "Multi-Block Link",
+    "author": "Tim Neufeld",
+    "description": "Preview multiple blocks together via a single link using [[note#^id1,^id2]].",
+    "repo": "firecase/obsidian-multi-block-link"
   }
 ]
